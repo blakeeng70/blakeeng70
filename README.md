@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hey, I'm Blake (@blakeeng70)
 
-<!--
-**blakeeng70/blakeeng70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in Seattle. Mostly writing low-level systems software, CLI tools, and occasional WebAssembly experiments.
 
-Here are some ideas to get you started:
+#### What I'm into
+- Building fast, reliable systems tools in Rust and C.
+- Exploring Linux internals, `io_uring`, and networking plumbing.
+- Tinkering with standalone Wasm runtimes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Stack
+- **Languages:** Rust, C, Wasm, Bash
+- **Environment:** Linux, Neovim, Git, LLDB
+
+#### Reach out
+- Email: blakeeng70@proton.me
+- Matrix: `@blake:matrix.org`
